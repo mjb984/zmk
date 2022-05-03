@@ -9,7 +9,7 @@
 / {
     chosen {
         zmk,kscan = &kscan0;
-        zmk,matrix_transform = &summer_breeze_transform;
+        zmk,matrix_transform = &breeze_transform;
     };
 
     breeze_transform: keymap_transform_0 {
