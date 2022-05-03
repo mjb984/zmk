@@ -6,7 +6,7 @@
 
 #include "breeze.dtsi"
 
-&default_transform {
+&breeze_transform {
 	row-offset = <5>;
 };
 
